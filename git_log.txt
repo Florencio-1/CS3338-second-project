@@ -1,0 +1,107 @@
+commit a5c6374043c22ac7484eb5b18ed1ce1e07f70289
+Merge: 32fbeeb cd2dcdb
+Author: Roberto De ita <rdeita@calstatela.edu>
+Date:   Thu Sep 4 19:59:57 2025 -0700
+
+    Resolve merge conflict in index.html
+
+commit 32fbeeba20d81eeda9317c7c79c7493d0a039734
+Author: Roberto De ita <rdeita@calstatela.edu>
+Date:   Thu Sep 4 19:59:11 2025 -0700
+
+    Resolve merge conflict: add both favorite food and movie divs
+
+commit 2bb4f62f713156546a94ac4d5fc84328d39d44ee
+Merge: 7a0e282 373754d
+Author: Roberto De ita <rdeita@calstatela.edu>
+Date:   Thu Sep 4 19:56:48 2025 -0700
+
+    Merge branch 'index-fix'
+
+commit 373754dba301053a4d6fc6a82af42a61b5630979
+Author: Roberto De ita <rdeita@calstatela.edu>
+Date:   Thu Sep 4 19:53:47 2025 -0700
+
+    Add favorite movie div to index.html on index-fix
+
+commit 7a0e282fa95692fb3d4f0312c31624bd35087664
+Author: Roberto De ita <rdeita@calstatela.edu>
+Date:   Thu Sep 4 19:51:20 2025 -0700
+
+    Add favorite food div to index.html on main
+
+commit cd2dcdb62b194d3b7ab96edc4187e4c663d96d12
+Author: Florencio-1 <112028449+Florencio-1@users.noreply.github.com>
+Date:   Thu Sep 4 19:45:40 2025 -0700
+
+    Update index.html
+
+commit 849153cb02c3f96b91ff24f81150437b19338131
+Author: Florencio-1 <112028449+Florencio-1@users.noreply.github.com>
+Date:   Thu Sep 4 19:43:09 2025 -0700
+
+    Update index.html
+
+commit 0be883247d1a620c7b83e377490993067837020e
+Author: Florencio-1 <112028449+Florencio-1@users.noreply.github.com>
+Date:   Thu Sep 4 19:33:53 2025 -0700
+
+    Update index.html
+
+commit ca32b9cd48111aabe5df2e0098662e6ec514e2a5
+Author: Florencio-1 <112028449+Florencio-1@users.noreply.github.com>
+Date:   Thu Sep 4 19:32:05 2025 -0700
+
+    Update index.html
+
+commit 059b8d7d016a07d773a6a1e333c7ef6c48375385
+Author: Florencio-1 <112028449+Florencio-1@users.noreply.github.com>
+Date:   Thu Sep 4 19:29:29 2025 -0700
+
+    Update index.html
+
+commit 3016c0f37eed8f077dd35561293ce7553899b6b4
+Author: Florencio-1 <112028449+Florencio-1@users.noreply.github.com>
+Date:   Thu Sep 4 19:27:28 2025 -0700
+
+    Update README.md
+
+commit 644f2e5754ac423dc689e718f8509419146a9592
+Author: Florencio-1 <112028449+Florencio-1@users.noreply.github.com>
+Date:   Thu Sep 4 19:26:39 2025 -0700
+
+    Add README.md describing project
+
+commit 9d31ddcde3e68fe4f08098db4c52238280e3480a
+Merge: 604e147 849eaa2
+Author: Roberto De ita <rdeita@calstatela.edu>
+Date:   Thu Sep 4 19:23:42 2025 -0700
+
+    Resolve merge conflicts
+
+commit 604e147cc2a130587c64a4d42c0a1ff67d2c4839
+Author: Roberto De ita <rdeita@calstatela.edu>
+Date:   Thu Sep 4 19:18:45 2025 -0700
+
+    Add README file
+
+commit 849eaa2b1f64c47b53c41d7708cf3f286be6ef3a
+Merge: 1d2bfc0 775d2d2
+Author: Florencio-1 <112028449+Florencio-1@users.noreply.github.com>
+Date:   Thu Sep 4 19:14:17 2025 -0700
+
+    Merge pull request #1 from Florencio-1/info-fill
+    
+    Update info
+
+commit 775d2d2ea24b39b66e2454cf591ed1b6227bc312
+Author: Roberto De ita <rdeita@calstatela.edu>
+Date:   Thu Sep 4 19:00:20 2025 -0700
+
+    Update info
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
